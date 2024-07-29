@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "blog_name": "CodingThunder",
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunderblog",
+    "prod_uri": "mysql://root:@localhost/codingthunderblog",
+    "fb_url": "https://www.facebook.com",
+    "twitter_url": "https://www.twitter.com",
+    "github_url": "https://www.github.com",
+    "about_text": "This is me Hazel, working as a WEB DEVELOPER and i enjoy working in different frameworks, currently i am implementing Flask.",
+    "no_of_posts": 2,
+    "admin_username": "Hazel",
+    "admin_password": "pass",
+    "upload_location": "E:\\myWEB\\bootstrap-clean-blog-pages\\startbootstrap-clean-blog-gh-pages\\static\\uploaded files",
+    
+  }
+}
